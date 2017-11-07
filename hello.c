@@ -1,5 +1,7 @@
 #include(stdio.h)
 void main() 
 {
-  print("hello py...!!!")
-}
+  printf("hello py...!!!")
+
+  printf("/nthis is the basic c program");
+}  
